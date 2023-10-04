@@ -1,0 +1,26 @@
+{
+    "name": "WiFi_Kit_series",
+    "version": "1.0.0",
+    "description": "Library to build for the Heltec Wifi LoRa V3",
+    "keywords": "planet, happiness, people",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Ultimaex/WiFi_Kit_series.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Ultimaex",
+        "email": "none",
+        "url": "none"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "none",
+    "dependencies": {
+      "ownername/print": "~1.3.0"
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
